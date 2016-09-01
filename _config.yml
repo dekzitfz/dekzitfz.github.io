@@ -1,0 +1,66 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: Adi Andrea
+email: dekz.itfz@gmail.com
+description: Android Developer
+url: # the base hostname & protocol for your site
+
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Asia/Makassar
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Adi Andrea
+  avatar: dekz.jpg
+  job: "Android Developer"
+  bio: ""
+  email: dekz.itfz@gmail.com
+  disqus-shortname:
+  twitter: "@kadek_adiandrea"
+  facebook: "dekzitfz"
+  google:
+    plus: 
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: "dekzitfz"
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: "adi-andrea-360847105"
+  xing: #username
+  instagram: "_dekz_"
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
