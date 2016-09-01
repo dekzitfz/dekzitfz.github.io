@@ -30,7 +30,13 @@ layout: default
         {{ page.date | date: "%-d %b %Y" | upcase }}
       </span>
       •
-      {% include read_time.html %}
+      <!--{% include read_time.html %}-->
+      {% assign words = content | number_of_words %}
+      {% if words < 360 %}
+        1 
+      {% else %}
+        {{ words | divided_by: 180 }}
+      {% endif %} menit membaca
     </span>
 
   </header>

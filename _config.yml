@@ -6,7 +6,7 @@
 title: Adi Andrea
 email: dekz.itfz@gmail.com
 description: Android Developer
-url: # the base hostname & protocol for your site
+url: https://dekzitfz.github.io
 
 
 #
@@ -34,7 +34,7 @@ kramdown:
 #
 owner:
   name: Adi Andrea
-  avatar: dekz.jpg
+  avatar: naoto3.jpg
   job: "Android Developer"
   bio: ""
   email: dekz.itfz@gmail.com
