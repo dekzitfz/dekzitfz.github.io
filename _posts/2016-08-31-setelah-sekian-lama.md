@@ -3,7 +3,7 @@ layout: post
 title:  "Setelah Sekian lama"
 date:   2016-08-31 15:07:19
 categories: [welcome,jekyll]
-comments: true
+comments: false
 ---
 
 Setelah sekian lama, kurang lebih 2 tahun, akhirnya saya memutuskan untuk kembali menulis blog...
