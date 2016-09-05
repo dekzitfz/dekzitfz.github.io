@@ -104,3 +104,6 @@ Baris kedua memberitahu Gradle untuk mengunduh `JUnit` versi 4.12, fungsi `testC
 Baris ketiga memberitahu Gradle untuk menambahkan library appcompat-v7 versi 24.2.0 dari Android Support Libraries. Library pendukung disini digunakan sebagai dependency saat melakukan compile.
 
 Cukup sampai sini dulu untuk bagian 1, post ini akan dilanjutkan ke bagian 2. Stay Tuned!
+
+###### Referensi
+Gradle Recipes For Android by Ken Kousen
