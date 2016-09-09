@@ -76,8 +76,8 @@ layout: default
      */
     
     var disqus_config = function () {
-        this.page.url = 'https://dekzitfz.github.io';  // Replace PAGE_URL with your page's canonical URL variable
-        this.page.identifier = 'dekzitfz'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+        this.page.url = '{{ site.url }}{{ page.url }}';  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = '{% if page.disqus_identifier %}{{ page.disqus_identifier}}{% else %}{{ site.url }}{{ page.url }}{% endif %}'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     };
     
     (function() {  // DON'T EDIT BELOW THIS LINE

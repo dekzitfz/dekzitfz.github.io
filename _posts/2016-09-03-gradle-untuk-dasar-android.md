@@ -3,6 +3,7 @@ layout: post
 title:  "Gradle Untuk Dasar Android. Bagian 1"
 date:   2016-09-04 13:48:22
 categories: [gradle,android]
+disqus_identifier: 101
 comments: true
 ---
 
