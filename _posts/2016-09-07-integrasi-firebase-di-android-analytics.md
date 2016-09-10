@@ -102,7 +102,7 @@ public class FirebaseExample extends Application {
 
 ##### Done!
 
-Done! Dengan ini kita sudah mengintegrasikan Firebase Analytics pada aplikasi android kita. Kita bisa melihat grafik penggunaan aplikasi kita pada sesi **Analytics** di console FIrebase. Perlu diperhatikan, butuh sekitar 1x24 Jam untuk grafik dapat aktif sejak kita mengintegrasikannya, sehingga saat kita membukanya akan terlihat seperti tampilan dibawah.
+Dengan ini kita sudah mengintegrasikan Firebase Analytics pada aplikasi android kita. Kita bisa melihat grafik penggunaan aplikasi kita pada sesi **Analytics** di console Firebase. Perlu diperhatikan, butuh sekitar 1x24 jam untuk grafik dapat aktif sejak kita mengintegrasikannya, sehingga saat kita membukanya akan terlihat seperti tampilan dibawah.
 
 ![view analytics](https://s13.postimg.org/ntsalx8kn/Screenshot_090916_094703_AM.jpg "view analytics")
 
