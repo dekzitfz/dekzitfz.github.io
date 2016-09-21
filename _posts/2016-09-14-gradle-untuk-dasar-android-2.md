@@ -64,7 +64,7 @@ Variable `proguardFiles` mendefinisikan rule untuk menggunakan ProGuard:
 
 - `getDefaultProguardFile('proguard-android.txt')` Method ini digunakan untuk mendapatkan file konfigurasi default dari SDK Android di folder `tools/proguard/`.
 
-- proguard-rules.pro Adalah file tempat kita menerapkan beberapa rule untuk penggunaan ProGuard. Secara default, filenya terletak di folder `App`.
+- `proguard-rules.pro` Adalah file tempat kita menerapkan beberapa rule untuk penggunaan ProGuard. Secara default, filenya terletak di folder `App`.
 
 Stay Tuned terus ya, bagian 3 akan menyusul! Contoh kode yang digunakan bisa dilihat di repo [GradleExample][GradleExample].
 
