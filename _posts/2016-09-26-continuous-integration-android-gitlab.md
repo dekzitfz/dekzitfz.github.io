@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Continuous Integration Project Android Di Gitlab"
-date:   2016-09-26 13:43:38 
+date:   2016-09-27 13:43:38 
 categories: [ci,integration,build,android,gitlab,git]
 disqus_identifier: 104
 comments: true
