@@ -13,7 +13,7 @@ Beberapa hari yang lalu, saya iseng-iseng melihat source code dari aplikasi [goo
 
 <!--more-->
 
-Sebelumnya saya belum pernah sama sekali menggunakan CI(Continuous Integration), bahkan tidak tau apa sebenarnya dan apa fungsi dari CI. Jadi, setelah menelusuri tentang CI, akhirnya saya jadi lumayan tahu, lumayan ya, bukan tahu banget.
+Sebelumnya saya belum pernah sama sekali menggunakan CI(Continuous Integration), bahkan tidak tahu apa sebenarnya dan apa fungsi dari CI. Jadi, setelah menelusuri tentang CI, akhirnya saya jadi lumayan tahu, lumayan ya, bukan tahu banget.
 
 ### Apa itu Continuous Integration?
 > Continuous Integration is a software development practice where members of a team integrate their work frequently, usually each person integrates at least daily - leading to multiple integrations per day. Each integration is verified by an automated build (including test) to detect integration errors as quickly as possible. Many teams find that this approach leads to significantly reduced integration problems and allows a team to develop cohesive software more rapidly. - [Martin Fowler](http://martinfowler.com/articles/continuousIntegration.html)
