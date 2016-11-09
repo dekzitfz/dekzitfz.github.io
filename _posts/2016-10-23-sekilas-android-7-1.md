@@ -65,7 +65,7 @@ Sekarang kita bisa melakukan restart dengan mudah.
 
 ----------
 
-Setelah rilis preview ini, google masih akan berencana mengeluarkan update pada bulan november diikuti final rilis ke Android Open SOurce Project (AOSP) pada bulan Desember. Awalnya akan tersedia pada Nexus 5X, Nexus 6P, dan perangkat Pixel C, kemudian Google akan memperpanjang Developer Preview ke perangkat lain pada bulan November.
+Setelah rilis preview ini, google masih akan berencana mengeluarkan update pada bulan november diikuti final rilis ke Android Open Source Project (AOSP) pada bulan Desember. Awalnya akan tersedia pada Nexus 5X, Nexus 6P, dan perangkat Pixel C, kemudian Google akan memperpanjang Developer Preview ke perangkat lain pada bulan November.
 
 
 [androidBetaProgram]: https://www.android.com/beta
