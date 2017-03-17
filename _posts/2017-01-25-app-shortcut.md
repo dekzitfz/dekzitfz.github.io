@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "App Shortcut Pada Android 7.1"
-date:   2016-12-25 11:25:15 
+date:   2017-01-25 11:25:15 
 categories: [android,nougat,shortcut]
 disqus_identifier: 108
 comments: true
