@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Memulai Development Aplikasi Android Dengan Kotlin"
-date:   2017-05-10 15:16:05 
+date:   2017-05-11 15:16:05 
 categories: [android,kotlin]
 disqus_identifier: 110
 comments: true
