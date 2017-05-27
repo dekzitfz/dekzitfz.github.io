@@ -21,7 +21,7 @@ Pada Google I/O 2017 beberapa hari yang lalu, Google memperkenalkan beberapa kom
 
 Terkadang, terjadi beberapa perubahan konfigurasi pada *device* yang kita gunakan, entah itu saat rotasi layar, munculnya virtual keyboard, dan lain-lain. Saat perubahan itu terjadi, android akan melakukan *restart* terhadap `activity` yang sedang berjalan.
 
-Contoh sederhananya, saat aplikasi kita sedang melalukan *request* data ke server ketika `activity` diakses, ketika data sudah ditampilkan, tiba-tiba *user* melakukan rotasi layar, maka `activity` akan melakukan *restart* dan melakukan *request* data dari awal, yang seharusnya tidak perlu dilakukan lagi.
+Contoh sederhananya, saat aplikasi kita sedang melakukan *request* data ke server ketika `activity` diakses, ketika data sudah ditampilkan, tiba-tiba *user* melakukan rotasi layar, maka `activity` akan melakukan *restart* dan melakukan *request* data dari awal, yang seharusnya tidak perlu dilakukan lagi.
 
 Untuk itulah `ViewModel` dibuat, `ViewModel` dapat menyimpan dan mengembalikan data yang terikat dengan suatu `activity` maupun `fragment` sehingga aplikasi kita dapat menggunakan data yang sebelumnya sudah dimiliki.
 
