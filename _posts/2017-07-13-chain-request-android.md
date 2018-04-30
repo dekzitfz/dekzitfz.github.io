@@ -7,7 +7,7 @@ disqus_identifier: 112
 comments: true
 ---
 
-![](https://s18.postimg.org/6oj95cmjt/rx-chain2.png)
+![](https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/rx-chain2.png)
 
 Melakukan *network request* ke suatu API sudah menjadi hal yang umum pada aplikasi android. Aktivitas ini digunakan untuk mengakses data yang tersedia untuk selanjutnya diolah dan ditampilkan pada UI aplikasi. Namun, bagaimana jika parameter yang kita butuhkan untuk melakukan *request*, bergantung pada hasil *request* yang lain?
 
