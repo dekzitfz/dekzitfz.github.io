@@ -7,7 +7,7 @@ disqus_identifier: 110
 comments: true
 ---
 
-![](https://s24.postimg.org/c0cj748ud/kotlinlogo.png)
+![](https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/kotlinlogo.png)
 
 Seperti yang kita ketahui selama ini, android sangat identik dengan bahasa JAVA. Namun belakangan ini telah muncul bahasa pemrograman baru di kalangan komunitas android, yaitu Kotlin. Jadi seperti apa sebenarnya bahasa Kotlin ini? Apa kelebihannya dibanding dengan JAVA?
 
@@ -33,19 +33,19 @@ Langkah pertama yang perlu kita lakukan adalah membuat project android seperti b
 
 Selanjutnya kita perlu menginstall plugin yang diperlukan, melalui `File -> Settings -> Plugins -> Browse Repositories` cari dengan keyword "Kotlin". Install plugin lalu restart Android Studio.
 
-![](https://s28.postimg.org/an6ebbh0b/Screenshot_051117_040505_PM.jpg)
+![](https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/Screenshot_051117_040505_PM.jpg)
 
 Setelah berhasil menginstall plugin, selanjutnya kita set konfigurasi kotlin pada project. Caranya pilih menu `Tools -> Kotlin -> Configure Kotlin in Project`.
 
-![](https://s4.postimg.org/yonj0c5ml/Screenshot_051117_042316_PM.jpg)
+![](https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/Screenshot_051117_042316_PM.jpg)
 
 Pilih android with gradle.
 
-![](https://s2.postimg.org/q7cvh0ixl/Screenshot_051117_042423_PM.jpg)
+![](https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/Screenshot_051117_042423_PM.jpg)
 
 Pilih all module lalu klik OK.
 
-![](https://s16.postimg.org/8ll5zm8xh/Screenshot_051117_042531_PM.jpg)
+![](https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/Screenshot_051117_042531_PM.jpg)
 
 Selanjutnya file `build.gradle` pada level project dan module akan mengalami update seperti code dibawah dan tentu saja kita perlu melakukan *sync* project.
 
@@ -80,7 +80,7 @@ Sampai tahap ini, kita sudah berhasil mengkonfigurasi keseluruhan project untuk 
 
 Pada file `MainActivity.java`, tekan tombol `shift` sebanyak dua kali untuk menampilkan field pencarian, lalu lakukan pencarian dengan keyword "convert java file to kotlin file".
 
-![](https://s2.postimg.org/867a32z4p/Screenshot_051117_045241_PM.jpg)
+![](https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/Screenshot_051117_045241_PM.jpg)
 
 Selain dengan cara diatas, kita juga bisa menggunakan kombinasi key `Ctrl + Alt + Shift + K` ataupun melalui menu `Code -> Convert Java File to Kotlin File`.
 
