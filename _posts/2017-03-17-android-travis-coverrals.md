@@ -7,7 +7,7 @@ disqus_identifier: 109
 comments: true
 ---
 
-<img src="https://s1.postimg.org/ocwpwobtb/travis_coverrals.png" width="600">
+<img src="https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/travis_coverrals.png" width="600">
 
 Pada beberapa project di Github, saya sering melihat beberapa badge yang menunjukan status dari repository tersebut. Kebetulan saya juga menggunakan salah satunya, yaitu [Travis CI][travis].
 
@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
 
 Login ke Travis dengan akun Github dan authorize agar Travis dapat mengakses repositori kita. Kemudian kita dapat menambah repositori untuk diaktifkan.
 
-![](https://s24.postimg.org/68qni1nb9/Screenshot_031617_043326_PM.jpg)
+![](https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/Screenshot_031617_043326_PM.jpg)
 
 Buat file `.travis.yml` yang berisi konfigurasi untuk melakukan trigger build di Travis. Letakkan di `root` project.
 
@@ -166,11 +166,11 @@ repo_token: <token-here>
 
 Login ke Coverrals dengan akun github, pilih menu `ADD REPOS`, tambahkan repo yang ingin kita lakukan coverage.
 
-![](https://s7.postimg.org/xew04nnfv/Screenshot_031617_050758_PM.jpg)
+![](https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/Screenshot_031617_050758_PM.jpg)
 
 Coba lakukan `push` ke Github, dan jika build berhasil pada Travis CI, Coverrals akan menunjukan persentase pada dashboard repo yang sudah kita aktifkan.
 
-![](https://s8.postimg.org/cmftqos8l/Screenshot_031617_051010_PM.jpg)
+![](https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/Screenshot_031617_051010_PM.jpg)
 
 Terlihat persentase Coverage adalah 0%, karena kita belum membuat unit test sama sekali.
 
@@ -192,13 +192,13 @@ public class CalculatorTest {
 
 Kode diatas untuk memastikan fungsi dari `calculator.add()` menghasilkan output nilai yang benar. Sekarang coba `push` perubahan yang telah kita lakukan dan lihat persentase coverage yang baru.
 
-![](https://s10.postimg.org/8d8waytnd/Screenshot_031617_053838_PM.jpg)
+![](https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/Screenshot_031617_053838_PM.jpg)
 
 Terlihat persentase coverage naik menjadi 14%. Kita juga bisa melihat bagian kode yang sudah tercover oleh unit test.
 
-![](https://s23.postimg.org/mudknrtqz/Screenshot_031617_054220_PM.jpg)
+![](https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/Screenshot_031617_054220_PM.jpg)
 
-![](https://s23.postimg.org/3nodxnkqz/Screenshot_031617_054324_PM.jpg)
+![](https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/Screenshot_031617_054324_PM.jpg)
 
 Bagian yang berwarna hijau menandakan kode yang sudah tercover unit test, sedangkan yang berwarna merah yang belum tercover.
 
