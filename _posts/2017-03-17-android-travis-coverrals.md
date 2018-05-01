@@ -7,7 +7,7 @@ disqus_identifier: 109
 comments: true
 ---
 
-<img src="https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/travis_coverrals.png" width="600">
+<img src="https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/travis-coverrals.png" width="600">
 
 Pada beberapa project di Github, saya sering melihat beberapa badge yang menunjukan status dari repository tersebut. Kebetulan saya juga menggunakan salah satunya, yaitu [Travis CI][travis].
 
