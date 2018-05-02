@@ -8,7 +8,7 @@ comments: true
 ---
 
 
-![logo webP](https://s16.postimg.org/gpm0zovgl/webplogo.png)
+![logo webP](https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/webplogo.png)
 
 WebP (dibaca: "weppy") merupakan format file gambar yang menggunakan kompresi lossy dan lossless. Saat ini tengah dikembangkan oleh Google dan sudah didukung oleh beberapa browser seperti Google Chrome dan Opera. Google sendiri membuat format ini sebagai alternatif dari JPEG dan PNG yang semakin menua, untuk itu WebP ini dijanjikan akan mempunyai keunggulan utama, diantaranya yaitu ukuran yang lebih kecil dengan kualitas yang tidak berkurang.
 
@@ -38,11 +38,11 @@ Untuk melakukan konfersi dari JPEG ataupun PNG ke WebP, kita bisa menggunakan to
 - jalankan command `cwebp -q 100 img\android.png -o img\android.webp`. untuk dokumentasi bisa dilihat [disini][cwebp-doc].
 - contoh result nya :
 
-![result cwebp](https://s14.postimg.org/tpx4kgnup/Screenshot_120116_101803_AM.jpg)
+![result cwebp](https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/Screenshot_120116_101803_AM.jpg)
 
 - hasil konversinya:
 
-![hasil](https://s14.postimg.org/wza64ts01/Screenshot_113016_094353_PM.jpg)
+![hasil](https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/Screenshot_113016_094353_PM.jpg)
 
 Terlihat hasil dari konversi dengan ukuran 50% lebih kecil, dengan format baru, yaitu `*.webp`. Bayangkan jika semua resource gambar kita menggunakan WebP, ukuran file APK kita tentu bisa menurun secara signifikan.
 
