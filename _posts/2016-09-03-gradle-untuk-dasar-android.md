@@ -15,11 +15,11 @@ Aplikasi android dibangun menggunakan sistem Gradle Build dengan kode sumber ter
 
 Supaya lebih jelas, kita mulai dari saat pertama kali membuat project di Android Studio.
 
-![Membuat Project Baru](https://s16.postimg.org/77094q1p1/create_project.jpg "Membuat Project Baru")
+![Membuat Project Baru](https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/create_project.jpg "Membuat Project Baru")
 
 Setelah membuat project baru, akan terbentuk tiga file utama Gradle yang dapat dilihat di panel kiri Android Studio.
 
-![File Gradle yang terbentuk](https://s11.postimg.org/am91ayjw3/file_gradle.jpg "File Gradle yang terbentuk")
+![File Gradle yang terbentuk](https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/file_gradle.jpg "File Gradle yang terbentuk")
 
 
 #### Gradle Setting
