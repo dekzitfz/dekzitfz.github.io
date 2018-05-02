@@ -7,7 +7,7 @@ disqus_identifier: 104
 comments: true
 ---
 
-![logo gitlabCI](https://gitlab.com/uploads/project/avatar/14288/icon_gitlab_ci.png)
+![logo gitlabCI](https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/icon_gitlab_ci.png)
 
 Beberapa hari yang lalu, saya iseng-iseng melihat source code dari aplikasi [google I/O di github][iosched], di list commitnya terdapat status build yang menggunakan [Travis CI][travisCI]. Travis CI ini sangat terintegrasi dengan GitHub dan sudah digunakan secara luas, lalu bagaimana dengan Gitlab?
 
@@ -65,15 +65,15 @@ Sedikit penjelasan tentang isi file ini,
 
 Lakukan `add`, `commit`, dan `push` file `.gitlab-ci.yml`. Gitlab akan otomatis melakukan build yang dapat kita lihat progressnya di bagian pipeline project.
 
-![pipeline](http://s16.postimg.org/9r0t37645/Screenshot_092716_121338_PM.jpg)
+![pipeline](http://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/Screenshot_092716_121338_PM.jpg)
 
 Kita juga dapat melihat log build yang sedang berjalan.
 
-![pipeline](http://s22.postimg.org/4htquadfl/Screenshot_092716_121405_PM.jpg)
+![pipeline](http://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/Screenshot_092716_121405_PM.jpg)
 
 Ini tampilan jika build berhasil dilakukan. Hasil build juga bisa di download langsung.
 
-![pipeline](http://s15.postimg.org/mkp4mypnf/Screenshot_092716_121847_PM.jpg)
+![pipeline](http://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/Screenshot_092716_121847_PM.jpg)
 
 Cukup simpel dan praktis bukan? contoh repo bisa dilihat [disini][gitlabCI].
 
