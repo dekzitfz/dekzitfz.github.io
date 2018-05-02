@@ -15,7 +15,7 @@ Blog yang saya tulis sebelumnya menggunakan Wordpress sedikit agak [mainstream][
 Jekyll ini cukup mudah digunakan, karena kita hanya perlu membuat file [Markdown][markdown] yang nantinya akan di build menjadi sebuah halaman web. Selain itu, Jekyll sangat mudah diintegrasi dan didukung penuh oleh GitHub Pages, info lebih lanjut bisa dilihat [disini][jekyll-gp].
 
 Data statistik dari website Top Open-Source [Static Site Generators][staticgen] (StaticGen) juga menunjukkan bahwa Jekyll merupakan static-web builder terfavorit saat ini.
-![Data StaticGen](https://s16.postimg.org/lete0oh79/Screenshot_090116_050209_PM.jpg "Data StaticGen")
+![Data StaticGen](https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/Screenshot_090116_050209_PM.jpg "Data StaticGen")
 
 Untuk artikel yang akan saya bahas disini nantinya tentu saja berhubungan dengan pengembangan aplikasi Android, baik dari segi JAVA, API, Gradle, Tips dan Trik. Semoga nantinya dapat bermanfaat.
 
