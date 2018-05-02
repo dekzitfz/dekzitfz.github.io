@@ -7,7 +7,7 @@ disqus_identifier: 108
 comments: true
 ---
 
-<img src="https://s24.postimg.org/x86d2965x/Screenshot_20170124_150952.png" width="600">
+<img src="https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/Screenshot_050218_012730_PM.jpg" width="600">
 
 Android Nougat 7.1 (API 25) membawa beberapa fitur baru seperti yang sudah saya buat pada artikel [sebelumnya][sebelumnya]. Salah satu fitur tersebut adalah App Shortcut.
 
