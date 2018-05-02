@@ -7,7 +7,7 @@ disqus_identifier: 102
 comments: true
 ---
 
-![Logo Firebase](https://s15.postimg.org/ejfg87vaz/firebase2.png "Logo Firebase")
+![Logo Firebase](https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/firebase2.png "Logo Firebase")
 
 Firebase merupakan platform yang menyediakan berbagai layanan layaknya sebagai Back-End aplikasi kita. Pada postingan ini saya akan membahas bagaimana cara mengintegrasikan salah satu layanan dari Firebase, yaitu Firebase Analytics.
 
@@ -33,15 +33,15 @@ Setelah semua sudah sesuai, langkah pertama, kita tambahkan Firebase ke dalam pr
 - Buat project di Android Studio seperti biasa.
 - Buat Project baru di [Firebase Console][firebase_console]. Set nama project dan  negara.
 
-  ![buat project firebase](https://s15.postimg.org/615efvp5n/Screenshot_090816_031142_PM.jpg "buat project firebase")
+  ![buat project firebase](https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/Screenshot_090816_031142_PM.jpg "buat project firebase")
 
 - pilih **Add Firebase to your Android app**, masukkan package name dari aplikasi kita & SHA-1. untuk mendapatkan SHA-1 bisa lihat [disini][SHA1].
 
-  ![add package & sha1](https://s22.postimg.org/ktr5lictt/Screenshot_090816_032218_PM.jpg "add package & sha1")
+  ![add package & sha1](https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/Screenshot_090816_032218_PM.jpg "add package & sha1")
 
 - Setelah itu kita akan otomatis mengunduh `google-services.json`.Taruh file tersebut ke dalam folder `app` di project android kita.
 
-  ![unduh json](https://s12.postimg.org/rycoszvp9/Screenshot_090816_032443_PM.jpg "unduh json")
+  ![unduh json](https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/Screenshot_090816_032443_PM.jpg "unduh json")
 
 - Tambahkan dependency firebase ke project kita. Pada Project-level `build.gradle`:
 
@@ -104,11 +104,11 @@ public class FirebaseExample extends Application {
 
 Dengan ini kita sudah mengintegrasikan Firebase Analytics pada aplikasi android kita. Kita bisa melihat grafik penggunaan aplikasi kita pada sesi **Analytics** di console Firebase. Perlu diperhatikan, butuh sekitar 1x24 jam untuk grafik dapat aktif sejak kita mengintegrasikannya, sehingga saat kita membukanya akan terlihat seperti tampilan dibawah.
 
-![view analytics](https://s13.postimg.org/ntsalx8kn/Screenshot_090916_094703_AM.jpg "view analytics")
+![view analytics](https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/Screenshot_090916_094703_AM.jpg "view analytics")
 
 Data grafik yang sudah muncul akan terlihat seperti ini.
 
-![graph analytics](https://s12.postimg.org/7x46e0grx/Screenshot_090916_095734_AM.jpgg "graph analytics")
+![graph analytics](https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/Screenshot_090916_095734_AM.jpgg "graph analytics")
 
 Untuk lebih jelasnya, silahkan lihat repo [FirebaseExample][FirebaseExample] di GitHub.
 
