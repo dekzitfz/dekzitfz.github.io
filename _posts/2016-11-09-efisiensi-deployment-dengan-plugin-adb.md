@@ -7,7 +7,7 @@ disqus_identifier: 106
 comments: true
 ---
 
-![logo adb](https://s17.postimg.org/4r1st7men/adb.jpg)
+![logo adb](https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/adb.jpg)
 
 Saat kita ingin menguji aplikasi android di suatu perangkat, pada umumnya kita mempunyai dua opsi, yaitu mengujinya melalui emulator atau mengujinya melalui device asli. Namun terkadang untuk laptop/PC yang memiliki spesifikasi pas-pasan cenderung enggan menggunakan emulator dikarenakan dapat membuat performa laptop/PC nya melambat. Alternatifnya tentu saja menggunakan device asli yang terhubung via kabel data. 
 
