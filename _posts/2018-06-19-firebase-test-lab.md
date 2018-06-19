@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Firebase Test Lab via Gitlab Continuous Integration"
-date:   2018-05-18 17:31:05 
+date:   2018-06-18 17:31:05 
 categories: [android,firebase,test,ci]
 disqus_identifier: 114
 comments: true
