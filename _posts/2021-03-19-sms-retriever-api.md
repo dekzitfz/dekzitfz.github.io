@@ -205,7 +205,7 @@ aA2MtPvtEex
 
 ![](https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/sms-retriever-1.png)
 
-Jalankan aplikasi, lalu kirim sms simulasi pada activity untuk input OTP, kdoe OTP akan langsung terinput.
+Jalankan aplikasi, lalu kirim sms simulasi pada activity untuk input OTP, kode OTP akan langsung terinput.
 
 ![](https://raw.githubusercontent.com/dekzitfz/dekzitfz.github.io/master/img/posts/sms-retriever-2.png)
 
