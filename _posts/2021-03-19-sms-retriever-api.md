@@ -4,7 +4,7 @@ title:  "Implementasi OTP dengan SMS Retriever API"
 date:   2021-03-29 09:00:00 
 categories: [android,sms,otp]
 disqus_identifier: 115
-comments: false
+comments: true
 ---
 
 ![](https://developers.google.com/identity/sms-retriever/flow-overview.png)
