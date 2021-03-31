@@ -109,7 +109,7 @@ class OTPActivity: AppCompatActivity(), SMSReceiver.SMSListener {
 }
 {% endhighlight %}
 
-Kode diatas melakukan setup pada method `startSMSRetriever` untuk kemudian mengambil kode OTP pada method `onSMSReceived`. Jangan lupa juga untuk melakukan unregister `SMSReceiver` di method `onDestroy`.
+Kode diatas melakukan setup pada method `startSMSRetriever` untuk kemudian mengambil kode OTP pada method `onOTPReceived`. Jangan lupa juga untuk melakukan unregister `SMSReceiver` di method `onDestroy`.
 
 
 ### Pengujian
