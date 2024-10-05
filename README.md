@@ -1,14 +1,52 @@
-# My Personal static-blog (adiandrea.id)
+# Pudhina Fresh
+A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
 
-This is my static-blog which build using [Jekyll](http://jekyllrb.com/). Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. Check [Jekyll Github Page](https://github.com/jekyll/jekyll).
+Live Demo: [ritijjain.github.io/pudhina-fresh](https://ritijjain.github.io/pudhina-fresh), [ritijjain.com](https://ritijjain.com/)
 
-## Theme
-I'm using [Leonids](https://github.com/renyuanz/leonids/) theme, its a clean Jekyll theme perfect for powering your GitHub hosted blog.
+* Minimal design based on Bootstrap 4.
+* Showcase your projects on the masonry style project page with collapsible cards – [demo](https://ritijjain.github.io/pudhina-fresh/projects/).
+* Categorize posts and projects using tags and view them on tag pages.
+* Dark mode (powered by darkmode.js)
+* 95+ Google PageSpeed Insight score 🔥 – [Test it yourself!](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fritijjain.github.io%2Fpudhina-fresh&tab=desktop)
 
-### setup check list (windows)
-- install ruby with devkit
-- install jekyll ```gem install jekyll bundler```
-- check if jekyll installed ```jekyll -v```
-- on project dir, run ```bundle update --bundler```
-- run ```bundle install``` to check if all required gems installed
-- finally run ```bundle exec jekyll serve``` to run on localhost
+![Demo image 1](/assets/img/dis1.png)
+![Demo image 2](/assets/img/dis2.png)
+![Demo image 3](/assets/img/dis3.png)
+![Demo image 4](/assets/img/dis4.png)
+![Demo image 5](/assets/img/dis5.png)
+
+## Features
+### Everything From [Pudhina](https://github.com/knhash/Pudhina)
+* Simple, minimal and clean
+* Blog posts categorized (Pudhina Fresh uses tags instead)
+* Responsive
+* Syntax Highlighter (using highlight.js).
+* Font-Awesome Icons.
+* Glitchy 404 page
+
+### Plus Much More
+* Minimal design based on Bootstrap 4.
+* Support for Bootstrap elements and bootstrap compatible styles.
+* Responsive mobile friendly design.
+* Showcase your projects on the masonry style project page with collapsible cards – [demo](https://ritijjain.github.io/pudhina-fresh/projects/).
+* Categorize posts and projects using tags and view them on tag pages.
+* Customizable post meta data for individual posts – tags, published date, updated date, author, author link.
+* Create redirect pages using the `_layouts/redirect` template.
+* Support for Disqus comments and Google Analytics.
+* Redesigned table, heading, subheading, link, quote, and text styles.
+* Dark mode (powered by darkmode.js)
+* Just as fast as the original – 95+ [Google PageSpeed Insights score](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fritijjain.github.io%2Fpudhina-fresh&tab=desktop).
+
+## Docs
+Read the [docs post](https://ritijjain.github.io/pudhina-fresh/2020/07/01/docs.html).
+
+Feel free to open a new issue for questions and comments.
+
+## Credits and License
+Pudhia Fresh is built on top of [Pudhina](https://github.com/knhash/Pudhina) by [Shashank S](https://github.com/knhash).
+
+[MIT License](https://github.com/ritijjain/pudhina-fresh/blob/master/LICENSE)
+
+## Stargazers Over Time
+
+[![Stargazers over time](https://starchart.cc/ritijjain/pudhina-fresh.svg)](https://starchart.cc/ritijjain/pudhina-fresh)

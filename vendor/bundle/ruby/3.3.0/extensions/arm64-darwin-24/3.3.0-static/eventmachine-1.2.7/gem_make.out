@@ -1,0 +1,19 @@
+current directory: /Users/adiandrea/project/jekyll-theme/pudhina-fresh/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/adiandrea/.rubies/ruby-3.3.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/adiandrea/project/jekyll-theme/pudhina-fresh/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241004-90998-huv3mm sitelibdir\=./.gem.20241004-90998-huv3mm clean
+
+current directory: /Users/adiandrea/project/jekyll-theme/pudhina-fresh/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241004-90998-huv3mm sitelibdir\=./.gem.20241004-90998-huv3mm
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/adiandrea/project/jekyll-theme/pudhina-fresh/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241004-90998-huv3mm sitelibdir\=./.gem.20241004-90998-huv3mm install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20241004-90998-huv3mm
+
+current directory: /Users/adiandrea/project/jekyll-theme/pudhina-fresh/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20241004-90998-huv3mm sitelibdir\=./.gem.20241004-90998-huv3mm clean
