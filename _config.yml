@@ -1,15 +1,16 @@
 title: Adi Andrea # Shown in header on pages with full_logo: true
-short_logo: AA. # Shown in header on all pages by default unless full_logo: true is set
+short_logo: Adi Andrea # Shown in header on all pages by default unless full_logo: true is set
+full_logo: true
 description: > # The description for your site
-  A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
+  A seasoned Android Developer with a proven track record of building high-performance mobile applications.
 url: "https://adiandrea.id" # Site base URL
 
 author:
-  name: Ritij Jain
-  github: ritijjain/pudhina-fresh # GitHub username, used for GitHub icon on the top right
-  linkedin: ritijjain # Your LinkedIn profile url name, used for LinkedIn icon on the top right
-  email: example@example.com # Used for email icon on the top right
-  homepage: https://ritijjain.com # This links to your name in post meta
+  name: Adi Andrea
+  github: dekzitfz # GitHub username, used for GitHub icon on the top right
+  linkedin: adiandrea # Your LinkedIn profile url name, used for LinkedIn icon on the top right
+  email: dekz.itfz@gmail.com # Used for email icon on the top right
+  homepage: https://adiandrea.id # This links to your name in post meta
   twitter: # Twitter username, used for Twitter Card Analytics 
 
 disqus_name: # Setting this will turn on Disqus comments

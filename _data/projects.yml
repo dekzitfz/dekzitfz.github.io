@@ -1,45 +1,103 @@
-- name: Project One # Project name, also used as heading
-  id: p1 # Project id, must be unique amongst the projects
-  img_src: /assets/img/connectpie-page.png # Optional image
-  description_less: This part of the project description is visible at all times. # Description shown at all times, text only
+- name: UmahLoka (2024) # Project name, also used as heading
+  id: umahloka # Project id, must be unique amongst the projects
+  img_src: /assets/img/ss_project_umahloka.png # Optional image
+  description_less: Umah Loka is a property information provider based on smartphone applications. # Description shown at all times, text only
   description_more: > # Description shown only when the project card is expanded, HTML only
-    <p>This part is only seen when you click on the project card.</p> 
+    <p>We provide information that is easy to understand, reliable and highly dedicated to all business circles from micro to macro. Currently, Umah Loka operates in the Property advertising sector.</p> 
   action_buttons: > # Action buttons for project, HTML only
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-  tags: [tag1, tag2] # A list of tags
+    <a href="https://play.google.com/store/apps/details?id=com.umahloka.app" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
+  tags: [android, kotlin] # A list of tags
 
-- name: Pudina Fresh Jekyll Theme
-  id: pf
+- name: Android Code Base Generator
+  id: generator
   img_src: 
-  description_less: A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
+  description_less: A Boilerplate code generator for creating Android project.
   description_more: >
-    <p>This site uses Pudhina Fresh theme.</p>
+    <p>Using Kotlin and MVVM pattern that refer to Android Jetpack. This boilerplate using <a href="https://pokeapi.co/">PokéAPI</a> for sample data source list.</p>
   action_buttons: >
-    <a href="https://github.com/ritijjain/pudhina-fresh" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-    <a href="https://ritijjain.com/2020/09/12/pudhina-fresh.html" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-  tags: [jekyll, open-source]
+    <a href="https://github.com/dekzitfz/generator-code-base-android" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+  tags: [android, kotlin, open-source]
 
-- name: Project Two
-  id: p2
+- name: Rupiah Edittext
+  id: rupiahedittext
   img_src: 
-  description_less: Refer to docs to learn how to add your own projects.
+  description_less: An auto-formatted edittext android to Indonesia Rupiah Currency.
   description_more: >
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    <p></p>
   action_buttons: >
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-  tags: [tag3, docs]
+    <a href="https://github.com/dekzitfz/RupiahEditText" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+  tags: [android, kotlin, open-source]
 
-- name: Project Three
-  id: p3
-  img_src: /assets/img/weatherpie-page.png
-  description_less: Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam.
-  description_more: >
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-  action_buttons: >
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-  tags: [tag2, tag4]
+- name: Lestari Diskon (2019)
+  id: lestaridiskon
+  img_src: /assets/img/ss_project_lestaridiskon.png
+  description_less: Lestari Diskon is a mobile platform application provides merchant information.
+  description_more: > 
+    <p>Collaborate with BPR Lestari, Lestari Diskon provides complete information about merchants covering major discounts, locations, phone numbers, and opening hours.</p> 
+  action_buttons: > 
+    <a href="https://apkcombo.com/id/koda-online-interview/id.koda.android/" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
+  tags: [android, kotlin]
+
+- name: Koda (2020)
+  id: koda
+  img_src: /assets/img/ss_project_koda.png
+  description_less: Koda is giving you the new way to do job interview.
+  description_more: > 
+    <p>Just record yourself and it will automatically send the video to the company. Reduce your time and cost because you can do job interview from anywhere and anytime. Reliable, we incorporate technology and real psychologist to analyze your interview.</p>
+  action_buttons: > 
+    <a href="https://apkcombo.com/id/koda-online-interview/id.koda.android/" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a> 
+  tags: [android, kotlin]
+
+- name: SebersihApa (2020)
+  id: sebersih
+  img_src: /assets/img/ss_project_sebersih.png
+  description_less: An on-demand laundry service app to easily order or pickup your laundry clothes.
+  description_more: > 
+  action_buttons: > 
+    <a href="https://apkcombo.com/id/developer/Sebersih%20Apa/" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
+  tags: [android, kotlin]
+
+- name: HULU (2022)
+  id: hulu
+  img_src: /assets/img/ss_project_hulu.png
+  description_less: Join the agricultural revolution with the all-in-one CROWDE app.
+  description_more: > 
+    <p>Get access to comprehensive training content, interesting videos, and informative quizzes that can help you improve your agricultural knowledge.</p>
+  action_buttons: > 
+    <a href="https://apkcombo.com/id/hulu-crowde/com.crowde.hulu.hulu/" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
+  tags: [android, flutter]
+
+# - name: Pudina Fresh Jekyll Theme
+#   id: pf
+#   img_src: 
+#   description_less: A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
+#   description_more: >
+#     <p>This site uses Pudhina Fresh theme.</p>
+#   action_buttons: >
+#     <a href="https://github.com/ritijjain/pudhina-fresh" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+#     <a href="https://ritijjain.com/2020/09/12/pudhina-fresh.html" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
+#   tags: [jekyll, open-source]
+
+# - name: Project Two
+#   id: p2
+#   img_src: 
+#   description_less: Refer to docs to learn how to add your own projects.
+#   description_more: >
+#     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+#   action_buttons: >
+#     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
+#     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+#     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
+#   tags: [tag3, docs]
+
+# - name: Project Three
+#   id: p3
+#   img_src: /assets/img/weatherpie-page.png
+#   description_less: Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam.
+#   description_more: >
+#     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+#   action_buttons: >
+#     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
+#     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
+#     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
+#   tags: [tag2, tag4]
