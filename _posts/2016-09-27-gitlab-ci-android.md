@@ -1,7 +1,7 @@
 ---
 # Required front matter
 layout: post # Posts should use the post layout
-title: Continuous Integration Project Android Di Gitlab # Post title
+title: Continuous Integration Project Android On Gitlab # Post title
 date: 2016-09-27 # Publish date in YYYY-MM-DD format
 
 # Recommended front matter
