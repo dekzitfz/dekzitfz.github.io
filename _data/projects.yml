@@ -35,7 +35,7 @@
   description_more: > 
     <p>Collaborate with BPR Lestari, Lestari Diskon provides complete information about merchants covering major discounts, locations, phone numbers, and opening hours.</p> 
   action_buttons: > 
-    <a href="https://apkcombo.com/id/koda-online-interview/id.koda.android/" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
+    <a href="https://play.google.com/store/apps/details?id=com.bprlestari.diskon" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
   tags: [android, kotlin]
 
 - name: Koda (2020)
