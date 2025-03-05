@@ -67,6 +67,14 @@
     <a href="https://apkcombo.com/id/hulu-crowde/com.crowde.hulu.hulu/" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
   tags: [android, flutter]
 
+- name: Molen Project (2022)
+  id: molen
+  img_src: /assets/img/ss_project_molen.png
+  description_less: Your ultimate companion for discovering, creating, and sharing delicious food and drink recipes.
+  description_more: > 
+    <p>Whether you're a seasoned chef or a home cook, this app provides a vast collection of recipes from different cuisines around the world. You can browse through a variety of dishes, find step-by-step cooking instructions, and even contribute your own recipes to share with the community.</p>
+  tags: [android, flutter]
+
 # - name: Pudina Fresh Jekyll Theme
 #   id: pf
 #   img_src: 
